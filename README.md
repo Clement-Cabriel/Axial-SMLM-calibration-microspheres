@@ -8,5 +8,6 @@ Please use the following contact inforamtion if you would like to comment or con
 If you use this software, please cite the original article. All further work and publication based on this software should follow the licence terms mentioned in the Github repository.
 
 How to use the code:
-- Set the input parameters (path to the localization file, measured center and radius of the microsphere in the same coordinate system as the localizationn file, display options, smoothing and croppping). Note: a data sample is provided to test the code (corresponding to the acquisition presented in the article, i.e. 15µm diameter microspheres coated with biotin, and further functionalized with Alexa Fluor 647 and imaged in a dSTORM buffer with an astigmatic detecttion system).
+- Download the repository and unzip it. Then unzip the dataset.
+- Open the .py code file, set the input parameters (path to the localization file, measured center and radius of the microsphere in the same coordinate system as the localizationn file, display options, smoothing and croppping). Note: a data sample is provided to test the code (corresponding to the acquisition presented in the article, i.e. 15µm diameter microspheres coated with biotin, and further functionalized with Alexa Fluor 647 and imaged in a dSTORM buffer with an astigmatic detecttion system).
 - Run the code. An output calibration file will be generated, which can be used in subsequent experiments.
