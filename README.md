@@ -1,4 +1,4 @@
-# Axial_SMLM_calibration_microspheres
+# Axial-SMLM-calibration-microspheres
 
 This code is provided as supporting material for the related article: Clément Cabriel, Nicolas Bourg, Guillaume Dupuis, and Sandrine Lévêque-Fort, 'Aberration-accounting calibration for 3D single-molecule localization microscopy', Optics Letters Vol. 43, Issue 2, pp. 174-177 (2018). DOI: https://doi.org/10.1364/OL.43.000174
 
